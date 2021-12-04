@@ -1,9 +1,9 @@
 
 
-const addTitle = (item) => {
+const addTitle = () => {
 
 }
 
-const removeTitle = () => {
-    
+const removeTitle = (item) => {
+
 }
